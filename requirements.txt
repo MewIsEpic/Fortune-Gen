@@ -1,0 +1,10 @@
+nltk
+transformers==4.40.2
+simpletransformers==0.70.0
+seaborn
+pandas
+scikit-learn
+matplotlib
+numpy
+scipy
+torch
