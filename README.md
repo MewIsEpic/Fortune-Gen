@@ -14,7 +14,7 @@ number and it is common to get the same poem from different gums.
 They also lack diversity in themes, sticking only to love life
 related fortunes.
 
-We sought to diversify the fortune poems in number and theme by
+I sought to diversify the fortune poems in number and theme by
 automating the writing proccess.
 
 ############
@@ -44,24 +44,20 @@ Evaluation: The classification model has a built-in accuracy check
 that works well. 
 
 As for text generation, sentences created are
-satisfactory in qualitative evaluation done by asking our friends
+satisfactory in qualitative evaluation done by asking my friends
 for their thoughts.
 
-A further evaluation metric we thought of is checking whether 
-lines rhyme or not. We couldn't implement it due to time restrictions.
+A further evaluation metric I thought of is checking whether 
+lines rhyme or not. I couldn't implement it due to time restrictions.
 
 ############
 
-Reflection on the project: We think this project was very fun and
+Reflection on the project: I think this project was very fun and
 informative to put together. 
 
-One big problem we faced was the lack of available data to put together 
+One big problem I faced was the lack of available data to put together 
 a satisfactorily large corpus, especially regarding data for non-love-related poems.
-We had to find workarounds to maximize the limited data we have.
+I had to find workarounds to maximize the limited data I had.
 
 ############
 
-Special thanks to: Ümit Atlamaz, Onur Keleş, Berat Doğan, Mehmet Can Dadan,
-for their help in developing the project.
-
-############
