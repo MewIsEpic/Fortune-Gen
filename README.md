@@ -1,10 +1,10 @@
 ############
 
-Project Name: Falcın
+Project Name: Fortune-Gen
 
 ############
 
-Project Definition: Falcın is a generator for fortune poems 
+Project Definition: Fortune-Gen is a generator for fortune poems 
 in the style found in some Turkish brand gums.
 
 ############
