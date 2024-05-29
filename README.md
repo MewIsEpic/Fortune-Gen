@@ -25,17 +25,18 @@ Ngram model. The classification process then selects sentences matching the
 desired theme until a 4-line poem is created. To generate classified 
 fortunes please follow the steps below:
 
-
-1. pip install -r requirements.txt to download the required libraries and packages
-2. do the imports
-3. execute the provided codes for data preprocessing, trigram model creation, and starter
+0. download the model.safetensors from the google drive and put it under the model file
+https://drive.google.com/drive/folders/1KB6B6h3KQOJ9E_yow8cn-wZ6SX-N7nSI?usp=sharing
+2. pip install -r requirements.txt to download the required libraries and packages
+3. do the imports
+4. execute the provided codes for data preprocessing, trigram model creation, and starter
 word generation.
-4. execute the codes for preparing the data for training the model and evaluation 
+5. execute the codes for preparing the data for training the model and evaluation 
 (do not train the model if you will use the saved model)
-5. run the pre-trained model (or train the model)
-6. use the generatePoem function to generate fortune poems, entering the desired theme 
+6. run the pre-trained model (or train the model)
+7. use the generatePoem function to generate fortune poems, entering the desired theme 
 as an argument, available themes are "love" and "money".
-7. use printPoem to post-process and print the generated and classified fortune poem.
+8. use printPoem to post-process and print the generated and classified fortune poem.
 
 ############
 
