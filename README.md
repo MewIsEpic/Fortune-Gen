@@ -19,19 +19,6 @@ automating the writing proccess.
 
 ############
 
-Project Management: Our team consists of three people. Below are
-the members and their focused responsibility within the project.
-
-Ceren Özdel: Implementing and fine-tuning the BERT model to classify 
-the generated text based on different themes.
-
-Ece Su Eren: Gathering data for corpus creation and preparing the corpus
-for text generation.
-
-Batuhan Ünsal: Text generation with Ngrams.
-
-############
-
 Usage: This project includes a BERT model trained on Turkish data to classify 
 fortunes into love or money themes. Sentences are first generated using an
 Ngram model. The classification process then selects sentences matching the
