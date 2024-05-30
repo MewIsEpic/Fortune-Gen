@@ -74,7 +74,3 @@ We had to find workarounds to maximize the limited data we have.
 
 ############
 
-Special thanks to: Ümit Atlamaz, Onur Keleş, Berat Doğan, Mehmet Can Dadan,
-for their help in developing the project.
-
-############
